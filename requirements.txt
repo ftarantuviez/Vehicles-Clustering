@@ -1,7 +1,7 @@
 streamlit==0.79.0
 matplotlib==3.3.4
 scipy==1.6.1
-~umpy==1.20.1
+
 pandas==0.25.3
 numpy==1.18.1
 scikit_learn==0.24.1
