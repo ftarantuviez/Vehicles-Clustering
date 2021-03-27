@@ -172,6 +172,6 @@ st.pyplot()
 st.write("""
 ## App repository
 
-[Github](https://github.com/ftarantuviez/)TODO
+[Github](https://github.com/ftarantuviez/Vehicles-Clustering)
 """)
 # / This app repository
